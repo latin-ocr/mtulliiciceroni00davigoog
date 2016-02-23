@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni00davigoog_0005.png"; bbox 0 0 788 1725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 597 536 633">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 597 536 633">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 597 536 633; baseline -0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 166 597 238 631; x_wconf 80' lang='lat' dir='ltr'>Che</span> <span class='ocrx_word' id='word_1_2' title='bbox 248 597 536 633; x_wconf 58' lang='lat' dir='ltr'>fitam-wilstanus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 250 641 451 674">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 250 641 451 674">
+     <span class='ocr_line' id='line_1_2' title="bbox 250 641 451 674; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 250 641 351 672; x_wconf 76' lang='lat' dir='ltr'>Book</span> <span class='ocrx_word' id='word_1_4' title='bbox 360 641 451 674; x_wconf 72' lang='lat' dir='ltr'>fund</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 166 1076 540 1100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 166 1076 540 1100">
+     <span class='ocr_line' id='line_1_3' title="bbox 166 1076 540 1100; baseline -0.005 -2"><span class='ocrx_word' id='word_1_5' title='bbox 166 1077 278 1099; x_wconf 70' lang='lat' dir='ltr'>Stantem</span> <span class='ocrx_word' id='word_1_6' title='bbox 287 1076 418 1100; x_wconf 67' lang='lat' dir='ltr'>univer-asty</span> <span class='ocrx_word' id='word_1_7' title='bbox 426 1076 540 1097; x_wconf 51' lang='lat' dir='ltr'>Libram&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 34 234 706 1480">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 34 234 706 1480">
+     <span class='ocr_line' id='line_1_4' title="bbox 34 234 706 1480; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 34 234 706 1480; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
